@@ -1,4 +1,4 @@
-# Welcome to My Study Results of C
+## Study Results
 
 Here is an interactive plot:
 

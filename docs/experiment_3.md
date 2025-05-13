@@ -1,4 +1,4 @@
-# LitC
+# Study 2
 
 Here is another (the same) interactive plot:
 
