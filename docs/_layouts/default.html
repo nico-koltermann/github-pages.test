@@ -2,11 +2,18 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-  {% include header.html %}
+
+    <nav>
+        <a href="index.html">About</a> |
+        <a href="experiment_1.html">Problem - UPMP</a> |
+        <a href="experiment_2.html">CEoH</a> |
+        <a href="experiment_3.html">LitCEoH</a>
+    </nav>
 
   <main class="container">
     {{ content }}
