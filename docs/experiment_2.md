@@ -1,9 +1,4 @@
- ---
-layout: default
-title: Experiment 2
----
-
-[Go to Results](index.html)
+<link rel="stylesheet" href="assets/style.css">
 
 # Welcome to My Study Results
 

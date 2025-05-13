@@ -1,10 +1,3 @@
- ---
-layout: default
-title: Experiment 1
----
-
-[Go to Results](index.html)
-
 # Welcome to My Study Results
 
 Here is an interactive plot:
