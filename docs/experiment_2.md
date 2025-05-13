@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="assets/style.css">
-
 # Welcome to My Study Results
 
 Here is an interactive plot:
